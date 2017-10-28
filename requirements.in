@@ -1,0 +1,3 @@
+tensorflow
+-e git+https://github.com/tflearn/tflearn.git#egg=tflearn
+pip-tools
